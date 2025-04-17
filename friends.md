@@ -7,7 +7,7 @@ title: Friends
 
 Berikut teman-teman saya dikelas:
 -[Ahmad Fayyad](https://ahmadfayyadh.github.io/)
--[Al Anisa Maharani]()
+-[Al Anisa Maharani](https://alanisamaharani.github.io/)
 -[Al Faiz Akbar Thaib](https://alfaizakbar.github.io/)
 -[Alisya Teriana](https://alisyateriana.github.io/)
 -[Allysa Humaira](https://allysahumaira.github.io/)
@@ -15,6 +15,7 @@ Berikut teman-teman saya dikelas:
 -[Ananda Putri Nabila](https://anandaaputrinabilla.github.io/)
 -[Anggi Sya'ban Nabila Batu Bara](https://angginabilabatubara.github.io/)
 -[Balqis Misyia](https://balqismisyia.github.io/)
+-[Cut yumna assyifa](https://cutyumnaassyifa22.github.io/)
 -[Darmawan Sahputra](https://darmawansahputra1.github.io/)
 -[Dinda Eliza](https://dindaelz06.github.io/)
 -[Farid Haikal](https://fareds.github.io/)
