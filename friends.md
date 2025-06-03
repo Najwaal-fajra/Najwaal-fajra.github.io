@@ -3,34 +3,37 @@ layout: default
 title: Friends
 ---
 
-# Friends page
+<div class="friends-container">
+<h1>Friends Page</h1>
 
-Berikut teman-teman saya dikelas:
--[Ahmad Fayyad](https://ahmadfayyadh.github.io/)
--[Al Anisa Maharani](https://alanisamaharani.github.io/)
--[Al Faiz Akbar Thaib](https://alfaizakbar.github.io/)
--[Alisya Teriana](https://alisyateriana.github.io/)
--[Allysa Humaira](https://allysahumaira.github.io/)
--[Amirullah](https://amirullah310.github.io/)
--[Ananda Putri Nabila](https://anandaaputrinabilla.github.io/)
--[Anggi Sya'ban Nabila Batu Bara](https://angginabilabatubara.github.io/)
--[Balqis Misyia](https://balqismisyia.github.io/)
--[Cut yumna assyifa](https://cutyumnaassyifa22.github.io/)
--[Darmawan Sahputra](https://darmawansahputra1.github.io/)
--[Dinda Eliza](https://dindaelz06.github.io/)
--[Farid Haikal](https://fareds.github.io/)
--[Janrico Maulana Sofyan](https://janricomaulanas.github.io/)
--[Muhammad Alfaraby](https://muhammadalfaraby06.github.io/)
--[Muhammad Alief Sidqi](https://alfsdqi.github.io/)
--[Muhammad Amharul Azhan](https://amharul.github.io/)
--[Muhammad Nawwar Khadafi](https://khadafimuhammadnawwar.github.io/)
--[Muhammad Raihan](https://mraihanads.github.io/)
--[Muhamad Zaky](https://muhzakyyy.github.io/)
--[Muhammad Zaki Fahrezi](https://m-zakifahrezi.github.io/)
--[Mohd.Muda Abrar](https://mudaabrar.github.io/)
--[Mutyara Assyifa](https://mutyaraassyifa.github.io/)
--[Najwa Al-Fajra](https://najwaal-fajra.github.io/)
--[Nursita](https://nursitaaa.github.io/)
--[rafii habibi](https://rafi-i-habibi.github.io/)
--[syahanalfatih](https://syahanalfatih.github.io/)
--[T.Ahmad Addairabi Asayifi'ie](https://addairabi.github.io/)
+<ul class="friend-list">
+  <li><a href="https://ahmadfayyadh.github.io/">Ahmad Fayyad</a></li>
+  <li><a href="https://alanisamaharani.github.io/">Al Anisa Maharani</a></li>
+  <li><a href="https://alfaizakbar.github.io/">Al Faiz Akbar Thaib</a></li>
+  <li><a href="https://alisyateriana.github.io/">Alisya Teriana</a></li>
+  <li><a href="https://allysahumaira.github.io/">Allysa Humaira</a></li>
+  <li><a href="https://amirullah310.github.io/">Amirullah</a></li>
+  <li><a href="https://anandaaputrinabilla.github.io/">Ananda Putri Nabila</a></li>
+  <li><a href="https://angginabilabatubara.github.io/">Anggi Sya'ban Nabila Batu Bara</a></li>
+  <li><a href="https://balqismisyia.github.io/">Balqis Misyia</a></li>
+  <li><a href="https://cutyumnaassyifa22.github.io/">Cut Yumna Assyifa</a></li>
+  <li><a href="https://darmawansahputra1.github.io/">Darmawan Sahputra</a></li>
+  <li><a href="https://dindaelz06.github.io/">Dinda Eliza</a></li>
+  <li><a href="https://fareds.github.io/">Farid Haikal</a></li>
+  <li><a href="https://janricomaulanas.github.io/">Janrico Maulana Sofyan</a></li>
+  <li><a href="https://muhammadalfaraby06.github.io/">Muhammad Alfaraby</a></li>
+  <li><a href="https://alfsdqi.github.io/">Muhammad Alief Sidqi</a></li>
+  <li><a href="https://amharul.github.io/">Muhammad Amharul Azhan</a></li>
+  <li><a href="https://khadafimuhammadnawwar.github.io/">Muhammad Nawwar Khadafi</a></li>
+  <li><a href="https://mraihanads.github.io/">Muhammad Raihan</a></li>
+  <li><a href="https://muhzakyyy.github.io/">Muhamad Zaky</a></li>
+  <li><a href="https://m-zakifahrezi.github.io/">Muhammad Zaki Fahrezi</a></li>
+  <li><a href="https://mudaabrar.github.io/">Mohd. Muda Abrar</a></li>
+  <li><a href="https://mutyaraassyifa.github.io/">Mutyara Assyifa</a></li>
+  <li><a href="https://najwaal-fajra.github.io/">Najwa Al-Fajra</a></li>
+  <li><a href="https://nursitaaa.github.io/">Nursita</a></li>
+  <li><a href="https://rafi-i-habibi.github.io/">Rafii Habibi</a></li>
+  <li><a href="https://syahanalfatih.github.io/">Syahanalfatih</a></li>
+  <li><a href="https://addairabi.github.io/">T. Ahmad Addairabi Asayifi'ie</a></li>
+</ul>
+</div>

@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Instalasi Ruby dan Jekyll"
+---
+
+
+Penjelasan tentang Instalasi Ruby dan Jekyll
+
+
 Instalasi Ruby
 1. Windows:
 - Unduh installer Ruby dari situs resmi Ruby (https://www.ruby-lang.org/en/downloads/).

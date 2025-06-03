@@ -3,6 +3,10 @@ layout: post
 title: "HTML-Link-dan Lists"
 ---
 
+
+penjelasan lengkap tentang  HTML Link dan List
+
+
 # HTML Link dan lists
 pejelasan tentang Link dan Lists pada HTML.
 Dalam HTML, link dan list adalah dua elemen dasar yang sangat penting untuk membangun dan mengorganisasi konten di halaman web. Berikut adalah penjelasan umum mengenai keduanya:

@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Markdown"
+---
+
+
+penjelasan tentang Markdown
+
+
+
 Markdown adalah bahasa markup ringan yang digunakan untuk memformat teks dalam format yang mudah dibaca dan ditulis. Berikut adalah beberapa elemen dasar Markdown:
 
 Judul
