@@ -1,0 +1,10 @@
+title: Home
+baseurl: ""
+url: "https://najwaal-fajra.github.io/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+
